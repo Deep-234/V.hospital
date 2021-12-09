@@ -1,4 +1,4 @@
-# Instagram-clone-MERN-Stack
+#Virtual Hospital MERN Stack
 
-# insta-clone
+# v.hospital
 
