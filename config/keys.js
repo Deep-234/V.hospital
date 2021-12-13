@@ -1,8 +1,8 @@
 module.exports = {
-  MONGOURI: "mongodb+srv://deep:Mongodb@cluster0.tii2u.mongodb.net/test1234",
+  MONGOURI: "Your connection string",
   JWT_SECRET: "erechutdwsfg",
   SENDGRID_API:
-    "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",
+    "Your sendgrid api",
 };
 
 // if(process.env.NODE_ENV==='production'){
